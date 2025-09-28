@@ -95,6 +95,7 @@ nav a:focus {
 
 img {
   width: 100%;
+  max-height: 100%;
 }
 
 /*This will be a lot of rules.... but be strategic and combine selectors*/
